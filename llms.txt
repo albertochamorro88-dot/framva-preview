@@ -1,0 +1,49 @@
+# Framva
+
+> Entrena con un plan hecho para ti, controla tu alimentación y compite con tus amigos. Prueba Framva 7 días gratis. Disponible en web, iOS y Android.
+
+## Qué es
+Framva es una app de fitness todo en uno: programa de entrenamiento personalizado, plan nutricional, retos, batallas y clasificaciones con amigos, check-in semanal y seguimiento del progreso.
+
+## Prueba
+7 días gratis. Se pide tarjeta para activar la prueba y se avisa antes de que termine.
+
+## Plataformas
+Web (disponible). iOS y Android (próximamente).
+
+## Enlaces
+- Landing: https://www.framva.com/myprogram/
+- Registro: https://www.framva.com/register
+- Iniciar sesión: https://www.framva.com/login
+- Privacidad: https://www.framva.com/privacy
+
+## Preguntas frecuentes
+### ¿Para quién es Framva?
+Para personas que quieren entrenar, comer mejor y ser constantes, tanto si empiezan como si ya entrenan. Puedes orientar tu plan a ganar músculo, perder grasa o mantenerte en forma.
+
+### ¿Necesito ir al gimnasio?
+No. Indicas dónde entrenas y con qué material cuentas. Tu programa se crea con esa información.
+
+### ¿Cómo se crea mi plan?
+Respondes preguntas sobre tu objetivo, experiencia, días disponibles, material, limitaciones físicas y alimentación. Framva utiliza esos datos para crear recomendaciones de entrenamiento y nutrición.
+
+### ¿Puedo seguir una dieta vegetariana o indicar alergias?
+Sí. Puedes elegir entre ocho tipos de dieta e indicar alergias, intolerancias y alimentos que no quieres comer.
+
+### ¿Cómo funciona la competición?
+Añade amigos, rétalos a batallas, participa en retos y sube en las clasificaciones ganando XP, rachas e insignias.
+
+### ¿En qué dispositivos puedo usarla?
+Puedes acceder desde el navegador del ordenador, tablet o móvil. Las aplicaciones para iOS y Android se anunciarán aquí cuando estén disponibles.
+
+### ¿Por qué me pedís la tarjeta?
+La tarjeta se solicita para activar los 7 días de prueba gratuita. Recibirás un aviso antes de que termine.
+
+### ¿Qué pasa cuando terminan los 7 días?
+Consulta las condiciones de continuidad y cancelación que se presentan al activar la prueba. Framva te avisará antes de que termine.
+
+### ¿Pierdo mi progreso si cancelo?
+Tu progreso y tus preferencias se conservan para que puedas retomar tu plan cuando vuelvas.
+
+### ¿Cómo se protegen mis datos?
+Puedes consultar cómo se tratan tus datos y cómo ejercer tus derechos en la política de privacidad de Framva.
