@@ -16,7 +16,7 @@ cierre.webp  File:Bench Press.jpg  [CC BY-SA 4.0]  https://commons.wikimedia.org
 g01.webp  File:Deadlift grip.JPG  [Public domain]  https://commons.wikimedia.org/wiki/File:Deadlift_grip.JPG
 g02.webp  File:CrossFit workout on SkiErg DSC1807.jpg  [CC BY 2.0]  https://commons.wikimedia.org/wiki/File:CrossFit_workout_on_SkiErg_DSC1807.jpg
 g03.webp  File:Healthy Vegan Buddha Bowl - 49859044753.jpg  [CC BY-SA 2.0]  https://commons.wikimedia.org/wiki/File:Healthy_Vegan_Buddha_Bowl_-_49859044753.jpg
-g04.webp  File:Malfermo de infana boksoklubo en Tjumeno 15.jpg  [CC BY-SA 4.0]  https://commons.wikimedia.org/wiki/File:Malfermo_de_infana_boksoklubo_en_Tjumeno_15.jpg
+g04-adulto.webp  File:La Boxe, Boxing Beats, Aubervilliers, France (Unsplash).jpg  [CC0]  https://commons.wikimedia.org/wiki/File:La_Boxe,_Boxing_Beats,_Aubervilliers,_France_(Unsplash).jpg
 g05.webp  File:CrossFit workout on a BikeErg DSC5375.jpg  [CC BY 2.0]  https://commons.wikimedia.org/wiki/File:CrossFit_workout_on_a_BikeErg_DSC5375.jpg
 g06.webp  File:U.S. Air Force Senior Airman Brandon Stout deadlifts.jpg  [Public domain]  https://commons.wikimedia.org/wiki/File:U.S._Air_Force_Senior_Airman_Brandon_Stout_deadlifts.jpg
 g07.webp  File:Healthy veggie bowl (44116205882).jpg  [CC BY 2.0]  https://commons.wikimedia.org/wiki/File:Healthy_veggie_bowl_(44116205882).jpg
